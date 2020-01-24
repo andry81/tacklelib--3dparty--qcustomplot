@@ -1,1 +1,8 @@
 * text=auto !eol
+/CMakeLists.txt -text
+/GPL.txt -text
+/README_EN.txt -text
+/changelog.original.txt -text
+/changelog.txt -text
+includes/qcustomplot.h -text
+src/qcustomplot.cpp -text
