@@ -1,3 +1,6 @@
+2020.02.10:
+* changed: readme update
+
 2020.01.24:
 * new: library at release 2.0.1 (2018.06.25) from https://www.qcustomplot.com/index.php/download
 * new: readme file
